@@ -2,12 +2,12 @@
 
 ## Table of contents
 
-* [General Info]
-* [Technologies]
-* [Installation]
-* [Status]
-* [Inspiration]
-* [Contact]
+* [General Info](#general-info) 
+* [Technologies](#technologies)
+* [Installation](#installation)
+* [Status](#status)
+* [Inspiration](#inspiration)
+* [Contact](#contact)
 
 ## General Info
 
