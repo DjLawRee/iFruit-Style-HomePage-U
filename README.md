@@ -44,8 +44,8 @@ And here we are.
 ## Contact 
 
 If you like my work , and want to talk - chat - give me a job , please feel free to contact me here : 
-Facebook : Laurynas Lawree Čėsna https://en-gb.facebook.com/laurynas.cesna1
-LinkedIn : Laurynas Čėsna https://lt.linkedin.com/in/laurynas-%C4%8D%C4%97sna-8927411b4
-Email : DjLawRee@Gmail.com
+* Facebook : Laurynas Lawree Čėsna https://en-gb.facebook.com/laurynas.cesna1
+* LinkedIn : Laurynas Čėsna https://lt.linkedin.com/in/laurynas-%C4%8D%C4%97sna-8927411b4
+* Email : DjLawRee@Gmail.com
 
 Cheers!
